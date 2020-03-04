@@ -1,0 +1,81 @@
+  
+  STWExport.exe : Version 19.5.0.10279
+  Copyright (C) Micro Focus 2002-2018. All rights reserved.
+  
+Exporting: Common.-NET-Script._Executor_Master.ver1464.xml
+Exporting: Common.-NET-Script._Executor_Master_General.ver240.xml
+Exporting: Common.-NET-Script._Executor_Master_gp.ver237.xml
+Exporting: Common.-NET-Script._Executor_Master_Testing.ver116.xml
+Exporting: Common.-NET-Script._Executor_Master_wyso.ver722.xml
+Exporting: Common.-NET-Script._Executor_Script_Test.ver23.xml
+Exporting: Common.-NET-Script._GetObjectMapEntries.ver65.xml
+Exporting: Common.-NET-Script._Lumina Testing - Test Plan.ver61.xml
+Exporting: Common.-NET-Script._Send_SilkTest_Status_Email.ver12.xml
+Exporting: Common.-NET-Script.Acciones Comunes - Login - Logout.ver48.xml
+Exporting: Common.-NET-Script.Acciones Genericas.ver20.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - _Funcionalidad Comun.ver192.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Acciones.ver646.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Administracion de Ejecuciones.ver121.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Bonos.ver315.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Cash Transfer.ver156.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - FX.ver149.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - FX FWD.ver78.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - FX NDF.ver69.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Monitor Barredora.ver94.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Monitor de Autorizaciones.ver94.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Monitor de Carga de Ordenes.ver606.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Monitor de Ejecuciones de Ordenes.ver673.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Monitor de Ejecuciones de Sociedades de Inversion.ver111.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Prestamo de Activos.ver129.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Reapertura de Sociedades de Inversion.ver89.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Reportos Multi Collateral.ver122.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Reportos Single Collateral.ver61.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Security Transfer.ver181.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Sociedades de Inversion.ver471.xml
+Exporting: Common.-NET-Script.Administracion de Ordenes - Validaciones de Negocio.ver20.xml
+Exporting: Common.-NET-Script.Administracion del Sistema - Monitor de Descarga de Datos.ver60.xml
+Exporting: Common.-NET-Script.Administracion del Sistema - Monitor de Ejecucion de Cierres.ver43.xml
+Exporting: Common.-NET-Script.Administracion del Sistema - Monitor de Procesos de Interfaces.ver27.xml
+Exporting: Common.-NET-Script.Back Office - Monitor de Eventos Corporativos.ver182.xml
+Exporting: Common.-NET-Script.Back Office - Monitor de Liquidacion de Operaciones.ver271.xml
+Exporting: Common.-NET-Script.Back Office - Monitor de Operaciones.ver141.xml
+Exporting: Common.-NET-Script.Back Office - Movimientos Genericos de Liquidacion.ver112.xml
+Exporting: Common.-NET-Script.Configuracion del Sistema - Default Instance.ver147.xml
+Exporting: Common.-NET-Script.Configuracion del Sistema - Habilitacion de Control Dual.ver33.xml
+Exporting: Common.-NET-Script.Configuracion del Sistema - Habilitacion de Maker and Checker.ver20.xml
+Exporting: Common.-NET-Script.Configuracion del Sistema - Monitor de Control Dual.ver70.xml
+Exporting: Common.-NET-Script.Configuracion del Sistema - Regression Test de Producto.ver90.xml
+Exporting: Common.-NET-Script.Cuentas - Cuentas de Contratos.ver63.xml
+Exporting: Common.-NET-Script.Cuentas - Cuentas Propias.ver241.xml
+Exporting: Common.-NET-Script.Cuentas - Instrucciones de Liquidacion.ver86.xml
+Exporting: Common.-NET-Script.Datos de Negocio - Bloqueo de Efectivo.ver106.xml
+Exporting: Common.-NET-Script.Datos de Negocio - Contrato.ver147.xml
+Exporting: Common.-NET-Script.Datos de Negocio - Maker-Checker.ver51.xml
+Exporting: Common.-NET-Script.Datos de Negocio - Persona.ver437.xml
+Exporting: Common.-NET-Script.Demo BHD.ver2.xml
+Exporting: Common.-NET-Script.Entorno de Mercado - Precios.ver48.xml
+Exporting: Common.-NET-Script.Library - Active Data.ver247.xml
+Exporting: Common.-NET-Script.Library - Database.ver128.xml
+Exporting: Common.-NET-Script.Library - General.ver913.xml
+Exporting: Common.-NET-Script.Library - General Scripts.ver36.xml
+Exporting: Common.-NET-Script.Library - Global Constants.ver352.xml
+Exporting: Common.-NET-Script.Library - Localization.ver51.xml
+Exporting: Common.-NET-Script.Library - Logging.ver130.xml
+Exporting: Common.-NET-Script.Library - TestCase Class Hierarchy.ver1649.xml
+Exporting: Common.-NET-Script.Login.ver284.xml
+Exporting: Common.-NET-Script.Logout.ver55.xml
+Exporting: Common.-NET-Script.MBG_Motivos de Falla_DD_ADD.ver13.xml
+Exporting: Common.-NET-Script.Mercado de Dinero - Asignacion de Colaterales.ver27.xml
+Exporting: Common.-NET-Script.Mercado de Dinero - Disponible para la venta.ver34.xml
+Exporting: Common.-NET-Script.Operaciones - Compra y Venta en Directo.ver180.xml
+Exporting: Common.-NET-Script.Operaciones - Monitor de Llamadas de Margen Posicional.ver114.xml
+Exporting: Common.-NET-Script.Operaciones - Operaciones de Cambio.ver278.xml
+Exporting: Common.-NET-Script.Operaciones - Prestamo de Valores.ver94.xml
+Exporting: Common.-NET-Script.Operaciones - Reportos Multicolaterales.ver113.xml
+Exporting: Common.-NET-Script.Operaciones - Sociedades de Inversion.ver126.xml
+Exporting: Common.-NET-Script.Prueba Record Script.ver13.xml
+Exporting: Common.-NET-Script.Sociedades de Inversion - Schedules.ver85.xml
+Exporting: Common.Object-map.File Explorer.ver15.xml
+Exporting: Common.Object-map.log.ver8.xml
+Exporting: Common.Object-map.Lumina.ver635.xml
+Exporting: Common.Object-map.Lumina - JDialogs.ver45.xml
